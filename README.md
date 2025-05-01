@@ -7,8 +7,7 @@ This project aims to develop an automated brain tumor prediction system using Co
 ## Objectives of the Project 🎯
 - **Improvement of the Image Quality and Segmentation:** By applying the techniques like triangular fuzzy median and EfficientNet-B0 which improves the quality of MRI image. This helps us to filter the noise by reducing and preserving the edges.
 - **Address Treatment Barrier:** Find the role of Bloor-brain barrier (BBB) and brain-tumor barrier (BTB) which prevent the delivery of the drug and explore the solution for this problem.
-
-
+  
 ## Dataset Source 💿
 - The dataset used in this project is sourced by Kaggle.
 
@@ -28,14 +27,10 @@ This project aims to develop an automated brain tumor prediction system using Co
 ## Conclusion 🚀
 This report presents the comparative analysis on the different type of brain simply tumour brain and healthy brain. Neuro Detect model use Convolutional Neural Network and achieved 98.7% accuracy in classification of MRI images into tumor and healthy brain. The model effectively extracted the key features from the scanned images and process through layers of CNN. There are two metrics F1-Score and accuracy which indicate the strong performance in classification of tumor brain and healthy brain, reducing the likelihood of false positive and negatives.
 
-## How to use this repository 📍
-- **Excel files** - Excel files are the source data for the project.
-- **Pbix file** - It is the PowerBI file in which the interactive dashboard is there so that any user can use it accordingly.
-- **Presentation file** - This is the file that contains all the relevant insights about the project.
-- **Readme file** - It gives the overview of the project.
-- **High Level Design file** - High-Level Design is a initial step in development of applications where overall structure of a system is planned. High-Level design focuses mainly on how different components of      the system work together without getting to know about internal coding and implementation. This helps everyone involving in the project to understand the goals and ensures good communication during development.
-- **Low Level Design file** - Low-Level Design, is a phase in the software development process where detailed system components and their interactions are specified, along with their implementation. It involves     converting the high-level design into a more detailed blueprint, addressing specific algorithms, data structures, and interfaces. LLD serves as a guide for developers during coding, which ensures the accurate     and efficient implementation of the system’s functionality.
-
+## How to use this Project 📍
+- Download this link first: https://github.com/iamutkarsh24/Brain-Tumor-Prediction/archive/refs/heads/main.zip
+- Extract this file in your system and open it in vs code
+- 
 ## About the Author 📃
 - Utkarsh Sharma
 - **Email**- sharma.utkarsh2402@gmail.com
